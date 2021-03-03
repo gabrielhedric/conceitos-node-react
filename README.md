@@ -46,6 +46,5 @@ Também temos os primeiros conceitos do React.JS, onde é desenvolvida uma aplic
 
  É uma aplicação que faz a criação, exclusão, atualização e listagem de Projetos e os exibe em uma página web totalmente integrada entre front-end e back-end, permitindo a
  listagem dos projetos e o cadastro de um novo projeto se necessário. 
- 
-
+ Colocando em prática todos os conceitos acima citados. 
 
